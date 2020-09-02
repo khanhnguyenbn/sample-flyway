@@ -1,0 +1,1 @@
+INSERT INTO `student` (`name`, `year_old`) VALUES ('khanh', '18');
